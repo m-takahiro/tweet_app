@@ -30,3 +30,8 @@ production:
   dapter: postgresql
   encoding: unicode
   pool: 5
+  username: stosubuugsapnr
+  password: c9cae8c10f36c05bdbefeae4e6a5781733b582065e6dc27abd2deaa4d5a553cf
+  hostname: ec2-174-129-18-98.compute-1.amazonaws.com
+  port: 5432
+  database: d74oslctljt44a
